@@ -1,0 +1,27 @@
+OS/2 sample code for serial device access.
+
+*       Copyright (c) 1988-91 OS/tools Incorporated -- All rights reserved
+*
+*       This code is supplied on an As-is basis.  No guarantees, no promises,
+*       no licenses.  Use as you see fit!
+*
+*   Some of this code was written for an OS/2 1.x program and some of the VIO
+*   may not be done the way code written for OS/2 2.x would be done.
+*
+*   You must have the OS/2 Developers Tool Kit to compile this code.
+*
+*   This code has been successfully compiled with Microsoft's "C" 6.0 compiler,
+*   but why bother?
+*
+*   All current development is done using Borland's OS/2 C++ compiler.
+*
+*   If you are interested, we have a complete Presentation Manager VIO application
+*   we use for in-house testing that is available as source code.  All you need
+*   to do is ask for it.
+*
+*   For questions, comments, or any other communication, contact us on the OS2AVEN
+*   forum, Section One, or send mail to CompuServe address 70314,3235.
+*
+*  All trademarks herin are trademarks, or registered trademarks, of their respective
+*  owners.
+
